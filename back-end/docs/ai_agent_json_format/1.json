@@ -1,0 +1,5 @@
+{
+    "date":"the date the request was submitted",
+    "language":"what language we are coding in (python, javascript, etc.)",
+    "code":"the code itself. use \n to dictate line breaks. use multiple if you want a gap in the code (example: 1 \n \n 2)"
+}

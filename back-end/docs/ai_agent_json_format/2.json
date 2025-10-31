@@ -1,0 +1,23 @@
+{
+    "date": "the date this request was submitted",
+    "language": "what language we are coding in (python, javascript, etc.)",
+    "code": 
+    [
+        {
+            "line": 1,
+            "line_code": "the code itself (dont use \n)",
+            "line_explanation": "why we implemented this specific line from an educational standpoint"
+        },
+        {
+            "line":2 ,
+            "line_code": "if the line has a blank space (from 2 \n), dont add any explanation. keep in mind that there could be multiple blank lines (example: \n \n \n, so we would need to have 2 lines of the blank space)",
+            "line_explanation": null
+        },
+        {
+            "line":3,
+            "line_code": "...",
+            "line_explanation": "..."
+        }
+    ],
+    "explanation": "explains the code in its entirety"
+}
